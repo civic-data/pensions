@@ -1,434 +1,849 @@
-                                                                                                                                                                                                       OMB Nos. 1210-0110
-         Form 5500-SF                                      Short Form Annual Return/Report of Small Employee                                                                                                    1210-0089
-           Department of the Treasury                                         Benefit Plan
-            Internal Revenue Service
-                                                        This form is required to be filed under sections 104 and 4065 of the Employee Retirement                                                       2015
-             Department of Labor                         Income Security Act of 1974 (ERISA), and sections 6057(b) and 6058(a) of the Internal
-     Employee Benefits Security Administration                                           Revenue Code (the Code).                                                                                This Form is Open to
-     Pension Benefit Guaranty Corporation
-                                                                                                                                                                                                  Public Inspection
-                                                            Complete all entries in accordance with the instructions to the Form 5500-SF.
-   Part I           Annual Report Identification Information
- For calendar plan year 2015 or fiscal plan year beginning                                02/02/2015                                                  and ending            01/31/2016
-                                                    X   a single-employer plan                         X    a multiple-employer plan (not multiemployer) (Filers checking this box must attach a
- A    This return/report is for:                                                                            list of participating employer information in accordance with the form instructions)
-                                                    X   a one-participant plan                         X    a foreign plan
+Form 5500-SF
+Department of the Treasury Internal Revenue Service
+Department of Labor Employee Benefits Security Administration Pension Benefit Guaranty Corporation
 
+Short Form Annual Return/Report of Small Employee Benefit Plan
+This form is required to be filed under sections 104 and 4065 of the Employee Retirement Income Security Act of 1974 (ERISA), and sections 6057(b) and 6058(a) of the Internal Revenue Code (the Code).
+ Complete all entries in accordance with the instructions to the Form 5500-SF.
 
- B This return/report is                            X   the first return/report                        X the final return/report
-                                                    X   an amended return/report                       X a short plan year return/report (less than 12 months)
- C    Check box if filing under:
-                             X Form 5558                       X automatic extension                                                                                                     X   DFVC program
-                             X special extension (enter description)
-  Part II  Basic Plan Information—enter all requested information
- 1a Name of plan ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI                                                                                                                1b   Three-digit
-PARK SLOPE FOOD
- ABCDEFGHI        COOP, INC. ABCDEFGHI
-               ABCDEFGHI     PENSION PLANABCDEFGHI
-                                             AND TRUST ABCDEFGHI ABCDEFGHI                                                                                                             plan number
- ABCDEFGHI ABCDEFGHI ABCDEFGHI                                                                                                                                                         (PN)            001   001
-                                                                                                                                                                                  1c   Effective date of plan
-                                                                                                                                                                                                       YYYY-MM-DD
-                                                                                                                                                                                                   01/01/1993
- 2a  Plan sponsor’s name (employer, if for a single-employer plan)                                                                                                                2b   Employer Identification Number
-     Mailing address (include room, apt., suite no. and street, or P.O. Box)                                                                                                           (EIN)      11-2424740
-                                                                                                                                                                                                         012345678
-     City or town, state or province, country, and ZIP or foreign postal code (if foreign, see instructions)
- ABCDEFGHI
-PARK SLOPE FOOD   ABCDEFGHI
-                      COOP, INC. ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI                                                                                                2c Sponsor’s telephone number
-                                                                                                                                                                                              718-783-2187
-                                                                                                                                                                                                    1234567890
-  ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
-  ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI                                                                                                           2d Business code (see instructions)
-782 UNION STREET                                                                                                                                                                  123456
-  ABCDEFGHI
-BROOKLYN,      ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
-           NY 11215                                                                                                                                                                               445110
-  ABCDEFGHI ABCDEFGH ABCDEFGHI ABCDEFGHI ABCDEFGHI I
- 3a Plan administrator’s name and address X Same as Plan Sponsor.ABCDEFGHI ABCDEFGHI                                                                                              3b   Administrator’s EIN
- ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI                                                                                                                                                      012345678
- c/o ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI                                                                                                                  3c   Administrator’s telephone number
- ABCDEFGHI                                                                                                                                                                                            1234567890
- 123456789 ABCDEFGHI ABCDEFGHI ABCDE
- 123456789 ABCDEFGHI ABCDEFGHI ABCDE
- CITYEFGHI ABCDEFGHI AB ST 012345678901I A
- 4 If the name and/or EIN of the plan sponsor has changed since the last return/report filed for this plan, enter the                                                             4b   EIN              012345678
-       name, EIN, and the plan number from the last return/report.
-  a    Sponsor’s name DEFGHI ABCDEFGHI ABCDEFGHI                                                    ABCDEFGHI CDEFGHI                                                             4c PN                         012
- 5a     Total number of participants at the beginning of the plan year ..................................................................................                           5a                              92
-                                                                                                                                                                                                             12345678
-  b     Total number of participants at the end of the plan year ...........................................................................................                       5b                               89
-                                                                                                                                                                                                             12345678
-  c     Number of participants with account balances as of the end of the plan year (defined benefit plans do not
-                                                                                                                                                                                    5c
-        complete this item) ...................................................................................................................................................
-   d(1) Total number of active participants at the beginning of the plan year ................................................................... 5d(1)                                                                 75
+OMB Nos. 1210-0110 1210-0089
+2015
+This Form is Open to Public Inspection
 
-   d(2) Total number of active participants at the end of the plan year ............................................................................. 5d(2)                                                             66
-   e Number of participants that terminated employment during the plan year with accrued benefits that were less                                                             5e                                          2
-      than 100% vested .....................................................................................................................................................
- Caution: A penalty for the late or incomplete filing of this return/report will be assessed unless reasonable cause is established.
- Under penalties of perjury and other penalties set forth in the instructions, I declare that I have examined this return/report, including, if applicable, a Schedule
- SB or Schedule MB completed and signed by an enrolled actuary, as well as the electronic version of this return/report, and to the best of my knowledge and
- belief, it is true, correct, and complete.
- SIGN             Filed with authorized/valid electronic signature.                                               04/26/2016                   JOSEPH HOLTZ
- HERE
-                   Signature of plan administrator                                                               Date                          Enter name of individual signing as plan administrator
- SIGN             Filed with authorized/valid electronic signature.                                               04/26/2016                   JOSEPH HOLTZ
- HERE
-             Signature of employer/plan sponsor                              Date                Enter name of individual signing as employer or plan sponsor
- Preparer’s name (including firm name, if applicable) and address (include room or suite number )                      Preparer’s telephone number
-    ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
- ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
- ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
- ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
- ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
- For Paperwork Reduction Act Notice and OMB Control Numbers, see the instructions for Form 5500-SF.                                                                                                   Form 5500-SF (2015)
-                                                                                                                                                                                                                v. 150123
-                 Form 5500-SF 2015                                                                                                        Page 2
+Part I Annual Report Identification Information
 
+For calendar plan year 2015 or fiscal plan year beginning 02/02/2015
 
-6a      Were all of the plan’s assets during the plan year invested in eligible assets? (See instructions.) ..........................................................                                            X   Yes   X   No
- b     Are you claiming a waiver of the annual examination and report of an independent qualified public accountant (IQPA)
-       under 29 CFR 2520.104-46? (See instructions on waiver eligibility and conditions.) ..............................................................................                                          X   Yes   X   No
-       If you answered “No” to either line 6a or line 6b, the plan cannot use Form 5500-SF and must instead use Form 5500.
-  c    If the plan is a defined benefit plan, is it covered under the PBGC insurance program (see ERISA section 4021)? ...... X Yes                                                             X No X           Not determined
+and ending 01/31/2016
+
+A This return/report is for:
+
+X a single-employer plan X a one-participant plan
+
+X a multiple-employer plan (not multiemployer) (Filers checking this box must attach a
+list of participating employer information in accordance with the form instructions)
+X a foreign plan
+
+B This return/report is
+
+X the first return/report X an amended return/report
+
+X the final return/report X a short plan year return/report (less than 12 months)
+
+C Check box if filing under:
+
+X Form 5558
+
+X automatic extension
+
+X special extension (enter description)
+
+Part II Basic Plan Information--enter all requested information 1a Name of plan ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI PAABRCKDSELFOGPEHIFOAOBDCCDOEOFPG, HINIC. APBENCSDIEOFNGPHLIANAABNCDDTERFUGSHTI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+2a Plan sponsor's name (employer, if for a single-employer plan)
+Mailing address (include room, apt., suite no. and street, or P.O. Box) City or town, state or province, country, and ZIP or foreign postal code (if foreign, see instructions)
+PAARBKCSDLEOFPGEHFIOOADBCCODOEPF,GINHCI. ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI 7B8RA2OBUOCNKDILOEYNFNGS, NTHRYIE1E1AT2B1C5DEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+ABCDEFGHI ABCDEFGH ABCDEFGHI ABCDEFGHI ABCDEFGHI I
+
+X DFVC program
+
+1b Three-digit
+plan number
+(PN) 
+
+001 001
+
+1c Effective date of plan 01/0Y1/Y19Y9Y3-MM-DD
+
+2b Employer Identification Number (EIN) 11-2420417240345678
+
+2c Sponsor's telephone number 718-78132-2314857 67890
+
+2d Business code (see instructions)
+
+123456
+
+445110
+
+3a Plan administrator's name and address XSame as Plan Sponsor.ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI c/o ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+3b Administrator's EIN 012345678
+3c Administrator's telephone number 1234567890
+
+123456789 ABCDEFGHI ABCDEFGHI ABCDE
+
+123456789 ABCDEFGHI ABCDEFGHI ABCDE
+
+4CITIYf tEheFGnaHmIe aAnBdC/oDr EEIFNGoHf ItheApBlan spSoTnso0r1h2as3c4h5an6g7e8d9si0nc1eItheAlast return/report filed for this plan, enter the
+name, EIN, and the plan number from the last return/report.
+a Sponsor's name DEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI CDEFGHI
+
+4b EIN 4c PN
+
+012345678 012
+
+5a Total number of participants at the beginning of the plan year.................................................................................. 5a
+
+1234567928
+
+b Total number of participants at the end of the plan year ...........................................................................................
+c Number of participants with account balances as of the end of the plan year (defined benefit plans do not
+complete this item) ...................................................................................................................................................
+
+5b 5c
+
+1234567898
+
+d(1) Total number of active participants at the beginning of the plan year ................................................................... 5d(1)
+
+75
+
+d(2) Total number of active participants at the end of the plan year............................................................................. 5d(2)
+
+66
+
+e Number of participants that terminated employment during the plan year with accrued benefits that were less
+than 100% vested.....................................................................................................................................................
+
+5e
+
+2
+
+Caution: A penalty for the late or incomplete filing of this return/report will be assessed unless reasonable cause is established.
+
+Under penalties of perjury and other penalties set forth in the instructions, I declare that I have examined this return/report, including, if applicable, a Schedule
+
+SB or Schedule MB completed and signed by an enrolled actuary, as well as the electronic version of this return/report, and to the best of my knowledge and
+
+belief, it is true, correct, and complete.
+
+SIGN HERE
+
+Filed with authorized/valid electronic signature. Signature of plan administrator
+
+04/26/2016 Date
+
+JOSEPH HOLTZ Enter name of individual signing as plan administrator
+
+SIGN HERE
+
+Filed with authorized/valid electronic signature. Signature of employer/plan sponsor
+
+04/26/2016 Date
+
+JOSEPH HOLTZ Enter name of individual signing as employer or plan sponsor
+
+Preparer's name (including firm name, if applicable) and address (include room or suite number )
+
+Preparer's telephone number
+
+ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+For Paperwork Reduction Act Notice and OMB Control Numbers, see the instructions for Form 5500-SF.
+
+Form 5500-SF (2015) v. 150123
+
+Form 5500-SF 2015
+
+Page 2
+
+6a Were all of the plan's assets during the plan year invested in eligible assets? (See instructions.) .......................................................... b Are you claiming a waiver of the annual examination and report of an independent qualified public accountant (IQPA)
+under 29 CFR 2520.104-46? (See instructions on waiver eligibility and conditions.) ..............................................................................
+
+X Yes X No X Yes X No
+
+If you answered "No" to either line 6a or line 6b, the plan cannot use Form 5500-SF and must instead use Form 5500.
+
+c If the plan is a defined benefit plan, is it covered under the PBGC insurance program (see ERISA section 4021)? ...... X Yes X No X Not determined
 
 Part III Financial Information
-7 Plan Assets and Liabilities                                                                                                        (a) Beginning of Year                                        (b) End of Year
- a Total plan assets ...............................................................................           7a               -123456789012345
-                                                                                                                                           5918608                                                -123456789012345
-                                                                                                                                                                                                          4810156
- b Total plan liabilities ...........................................................................          7b               -123456789012345                                                   123456789012345
- c Net plan assets (subtract line 7b from line 7a) .................................                           7c               -123456789012345
-                                                                                                                                           5918608                                                -123456789012345
-                                                                                                                                                                                                          4810156
-8 Income, Expenses, and Transfers for this Plan Year                                                                                        (a) Amount                                                 (b) Total
- a Contributions received or receivable from:
-       (1) Employers ..................................................................................      8a(1)                          1400000
-                                                                                                                                -123456789012345
-       (2) Participants ................................................................................     8a(2)              -123456789012345
-       (3) Others (including rollovers) ........................................................             8a(3)              -123456789012345
-  b    Other income (loss) ..........................................................................          8b               -123456789012345
-                                                                                                                                           -1396426
-  c    Total income (add lines 8a(1), 8a(2), 8a(3), and 8b) ........................                           8c                                                                                 -123456789012345
-                                                                                                                                                                                                            3574
-  d    Benefits paid (including direct rollovers and insurance premiums
-       to provide benefits) ...........................................................................        8d               -123456789012345
-                                                                                                                                           1075623
-  e    Certain deemed and/or corrective distributions (see instructions) ....                                  8e               -123456789012345
-  f    Administrative service providers (salaries, fees, commissions)........                                  8f               -123456789012345
-                                                                                                                                             10660
-  g    Other expenses ................................................................................         8g               -123456789012345
-                                                                                                                                             25743
-  h    Total expenses (add lines 8d, 8e, 8f, and 8g)...................................                        8h                                                                                 -123456789012345
-                                                                                                                                                                                                          1112026
-  i    Net income (loss) (subtract line 8h from line 8c) ..............................                        8i                                                                                        -1108452
-                                                                                                                                                                                                  -123456789012345
-  j    Transfers to (from) the plan (see instructions) ..................................                      8j               -123456789012345
-Part IV      Plan Characteristics
-9a If the plan provides pension benefits, enter the applicable pension feature codes from the List of Plan Characteristic Codes in the instructions:
-           1A      3D
-  B     If the plan provides welfare benefits, enter the applicable welfare feature codes from the List of Plan Characteristic Codes in the instructions:
 
+7 Plan Assets and Liabilities
+
+(a) Beginning of Year
+
+(b) End of Year
+
+a Total plan assets............................................................................... 7a
+
+-1234567890159213846058
+
+-1234567488910011526 345
+
+b Total plan liabilities ........................................................................... 7b
+
+-123456789012345
+
+123456789012345
+
+c Net plan assets (subtract line 7b from line 7a) ................................. 7c
+
+-1234567890159213846058
+
+-1234567488910011526 345
+
+8 Income, Expenses, and Transfers for this Plan Year
+a Contributions received or receivable from:
+(1) Employers ..................................................................................
+
+8a(1)
+
+(a) Amount
+-1234567890114203040050
+
+(b) Total
+
+(2) Participants ................................................................................ 8a(2)
+
+-123456789012345
+
+(3) Others (including rollovers) ........................................................ 8a(3)
+
+-123456789012345
+
+b Other income (loss) .......................................................................... 8b
+
+-1234567890-113293644256
+
+c Total income (add lines 8a(1), 8a(2), 8a(3), and 8b) ........................
+d Benefits paid (including direct rollovers and insurance premiums
+to provide benefits) ...........................................................................
+
+8c 8d
+
+-1234567890110273546253
+
+-1234567893051724 345
+
+e Certain deemed and/or corrective distributions (see instructions).... 8e
+
+-123456789012345
+
+f Administrative service providers (salaries, fees, commissions)........ 8f
+
+-12345678901213046650
+
+g Other expenses ................................................................................ 8g
+
+-12345678901223547453
+
+h Total expenses (add lines 8d, 8e, 8f, and 8g)................................... 8h
+
+-1234567181912001226 345
+
+i Net income (loss) (subtract line 8h from line 8c) .............................. j Transfers to (from) the plan (see instructions)..................................
+
+8i 8j
+
+-123456789012345
+
+-1234567-181908041522 345
+
+Part IV Plan Characteristics
+9a If the plan provides pension benefits, enter the applicable pension feature codes from the List of Plan Characteristic Codes in the instructions:
+1A 3D
+
+B If the plan provides welfare benefits, enter the applicable welfare feature codes from the List of Plan Characteristic Codes in the instructions:
 
 Part V Compliance Questions
-10 During the plan year:                                                                                                                                             Yes       No       N/A                      Amount
-  a Was there a failure to transmit to the plan any participant contributions within the time period
-          described in 29 CFR 2510.3-102? (See instructions and DOL’s Voluntary Fiduciary Correction
-          Program) ........................................................................................................................................... 10a             X                   -123456789012345
-   b     Were there any nonexempt transactions with any party-in-interest? (Do not include transactions
-         reported on line 10a.) ......................................................................................................................... 10b                  X                   -123456789012345
-   c      Was the plan covered by a fidelity bond? .......................................................................................... 10c                     X                            -123456789012345
-                                                                                                                                                                                                              750000
-   d     Did the plan have a loss, whether or not reimbursed by the plan’s fidelity bond, that was caused
-         by fraud or dishonesty? ...................................................................................................................... 10d                    X                   -123456789012345
-   e     Were any fees or commissions paid to any brokers, agents, or other persons by an insurance
-         carrier, insurance service, or other organization that provides some or all of the benefits under
-         the plan? (See instructions.) ............................................................................................................... 10e                     X                   -123456789012345
-   f     Has the plan failed to provide any benefit when due under the plan? ............................................... 10f                                               X                   -123456789012345
-   g     Did the plan have any participant loans? (If “Yes,” enter amount as of year end.) ............................ 10g                                                    X                   -123456789012345
-   h     If this is an individual account plan, was there a blackout period? (See instructions and 29 CFR
-         2520.101-3.) ....................................................................................................................................... 10h
-   i     If 10h was answered “Yes,” check the box if you either provided the required notice or one of the
-         exceptions to providing the notice applied under 29 CFR 2520.101-3............................................... 10i
-   j     Did the plan trust incur unrelated business taxable income? ........................................................... 10j
+
+10 During the plan year:
+
+Yes No N/A
+
+Amount
+
+a Was there a failure to transmit to the plan any participant contributions within the time period
+
+described in 29 CFR 2510.3-102? (See instructions and DOL's Voluntary Fiduciary Correction Program) ........................................................................................................................................... 10a
+
+X
+
+-123456789012345
+
+b Were there any nonexempt transactions with any party-in-interest? (Do not include transactions
+reported on line 10a.) ......................................................................................................................... 10b
+
+X
+
+-123456789012345
+
+c Was the plan covered by a fidelity bond?.......................................................................................... 10c X
+
+d Did the plan have a loss, whether or not reimbursed by the plan's fidelity bond, that was caused
+by fraud or dishonesty? ...................................................................................................................... 10d
+
+X
+
+e Were any fees or commissions paid to any brokers, agents, or other persons by an insurance
+carrier, insurance service, or other organization that provides some or all of the benefits under the plan? (See instructions.)............................................................................................................... 10e
+
+X
+
+-123456789017520304005 -123456789012345
+-123456789012345
+
+f Has the plan failed to provide any benefit when due under the plan? ............................................... 10f
+
+X
+
+-123456789012345
+
+g Did the plan have any participant loans? (If "Yes," enter amount as of year end.) ............................ 10g h If this is an individual account plan, was there a blackout period? (See instructions and 29 CFR
+2520.101-3.) ....................................................................................................................................... 10h
+i If 10h was answered "Yes," check the box if you either provided the required notice or one of the
+exceptions to providing the notice applied under 29 CFR 2520.101-3............................................... 10i
+
+X
+
+-123456789012345
+
+j Did the plan trust incur unrelated business taxable income? ........................................................... 10j
 
 Part VI Pension Funding Compliance
-11 Is this a defined benefit plan subject to minimum funding requirements? (If "Yes," see instructions and complete Schedule SB (Form
-        5500) and line 11a below).............................................................................................................................................................................    X   Yes   X   No
 
-11a      Enter the unpaid minimum required contribution for all years from Schedule SB (Form 5500) line 40 .............................. 11a                                                                                     0
+11 Is this a defined benefit plan subject to minimum funding requirements? (If "Yes," see instructions and complete Schedule SB (Form 5500) and line 11a below)............................................................................................................................................................................. X Yes X No
 
-12       Is this a defined contribution plan subject to the minimum funding requirements of section 412 of the Code or section 302 of ERISA? ...                                                                  X   Yes X No
-                 Form 5500-SF 2015                                                                                                    Page 3       - 11 x
-          (If "Yes," complete line 12a or lines 12b, 12c, 12d, and 12e below, as applicable.)
-     a    If a waiver of the minimum funding standard for a prior year is being amortized in this plan year, see instructions, and enter the date of the letter ruling
-          granting the waiver. ................................................................................................................................. Month _______ Day _______ Year ________
-     If you completed line 12a, complete lines 3, 9, and 10 of Schedule MB (Form 5500), and skip to line 13.
-     b Enter the minimum required contribution for this plan year ................................................................................................                                   12b         123456789012345
-    c Enter the amount contributed by the employer to the plan for this plan year ......................................................................                                             12c         -123456789012345
-    d Subtract the amount in line 12c from the amount in line 12b. Enter the result (enter a minus sign to the left of a                                                                             12d                   YYYY-MM-DD
-         negative amount) ...............................................................................................................................................................
-    e    Will the minimum funding amount reported on line 12d be met by the funding deadline? ..................................................                                                           X    Yes    X   No     X   N/A
+11a Enter the unpaid minimum required contribution for all years from Schedule SB (Form 5500) line 40.............................. 11a
 
-Part VII Plan Terminations and Transfers of Assets
- 13a Has a resolution to terminate the plan been adopted in any plan year? ....................................................................................                                                  X    Yes X No
-          If “Yes,” enter the amount of any plan assets that reverted to the employer this year ....................................................... 13a
-    b     Were all the plan assets distributed to participants or beneficiaries, transferred to another plan, or brought under the control
-                                                                                                                                                                                                                       X   Yes X No
-          of the PBGC? ..................................................................................................................................................................................
-    c     If during this plan year, any assets or liabilities were transferred from this plan to another plan(s), identify the plan(s) to
-          which assets or liabilities were transferred. (See instructions.)
-        13c(1) Name of plan(s):                                                                                                                                                       13c(2) EIN(s)                        13c(3) PN(s)
-           ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
-                                                                                                                                                                                              123456789                                   012
-           ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
-           ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
-Part VIII Trust Information
-14a Name of trust ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI                                                                                                                        14b    Trust’s EIN
-ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
-ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
-14c Name of trustee or custodian                                                                                                                                                                     14d       Trustee’s or custodian’s
-                                                                                                                                                                                                               telephone number
+0
 
+12 Is this a defined contribution plan subject to the minimum funding requirements of section 412 of the Code or section 302 of ERISA?... X Yes X No
 
- Part IX             IRS Compliance Questions
- 15a     Is the plan a 401(k) plan? ....................................................................................................................................................                 Yes                X No
-                                                                                                                                                                                                           Design-
- 15b If “Yes,” how does the 401(k) plan satisfy the nondiscrimination requirements for employee deferrals and employer                                                                               X     based safe       X   ADP/ACP
-         matching contributions (as applicable) under sections 401(k)(3) and 401(m)(2)? ...............................................................                                                    harbor               test
-                                                                                                                                                                                                           method
- 15c If the ADP/ACP test is used, did the 401(k) plan perform ADP/ACP testing for the plan year using the "current year                                                                                  Yes                X No
-         testing method" for nonhighly compensated employees (Treas. Reg sections 1.401(k)-2(a)(2)(ii) and 1.401(m)-
-         2(a)(2)(ii))? ...........................................................................................................................................................................
-                                                                                                                                                                                                           Ratio
-                                                                                                                                                                                                     X                      X   Average
- 16a Check the box to indicate the method used by the plan to satisfy the coverage requirements under section 410(b): ........                                                                             percentage
-                                                                                                                                                                                                                                benefit test
-                                                                                                                                                                                                           test
- 16b Does the plan satisfy the coverage and nondiscrimination tests of sections 410(b) and 401(a)(4) by combining                                                                                    X   Yes                X No
-         this plan with any other plans under the permissive aggregation rules? .............................................................................
- 17a Has the plan been timely amended for all required tax law changes? ................................................................................. X                                              Yes                X No      X N/A
- 17b Date the last plan amendment/restatement for the required tax law changes was adopted____/____/____. Enter the applicable code ____ (See instructions
-         for tax law changes and codes).
- 17c If the plan sponsor is an adopter of a pre-approved master and prototype (M&P) or volume submitter plan that is subject to a favorable IRS opinion or
-         advisory letter, enter the date of that favorable letter _______/_______/_______ and the letter’s serial number ________________.
- 17d If the plan is an individually-designed plan and received a favorable determination letter from the IRS, enter the date of the plan’s last favorable
-         determination letter ______/_______/_______.
- 18      Is the Plan maintained in a U.S. territory (i.e., Puerto Rico (if no election under ERISA section 1022(i)(2) has been
-         made), American Samoa, Guam, the Commonwealth of the Northern Mariana Islands or the U.S. Virgin Islands)? .........
-                                                                                                                                                                                                     X Yes                 X No
+Form 5500-SF 2015
 
- 19      Were in-service distributions made during the plan year? ...................................................................................................                                X   Yes               X No
-         If “Yes,” enter amount ..........................................................................................................................................................            19
- 20      Were required minimum distributions made to 5% owners who have attained age 70 ½ (regardless of whether or not                                                                              X   Yes               X No       X N/A
-         retired), as required under section 401(a)(9)? .....................................................................................................................
-          SCHEDULE SB                                                   Single-Employer Defined Benefit Plan                                                                                      OMB No. 1210-0110
+Page 3 - 11 x
 
-               (Form 5500)                                                      Actuarial Information
-                                                                                                                                                                                                         2015
-             Department of the Treasury
-              Internal Revenue Service
-                                                                   This schedule is required to be filed under section 104 of the Employee
-              Department of Labor                                 Retirement Income Security Act of 1974 (ERISA) and section 6059 of the
-     Employee Benefits Security Administration                                                                                                                                             This Form is Open to Public
-                                                                                     Internal Revenue Code (the Code).                                                                             Inspection
-       Pension Benefit Guaranty Corporation
-                                                       File as an attachment to Form 5500 or 5500-SF.
- For calendar plan year 2015 or fiscal plan year beginning     02/02/2015                           and ending                                                                     01/31/2016
- Round off amounts to nearest dollar.
- Caution: A penalty of $1,000 will be assessed for late filing of this report unless reasonable cause is established.
-A Name of plan                                                                                                                                      B        Three-digit
- PARK SLOPE FOOD
-ABCDEFGHI           COOP, INC.
-               ABCDEFGHI        PENSION PLAN
-                             ABCDEFGHI            AND TRUST ABCDEFGHI
-                                               ABCDEFGHI                                                                                                     plan number (PN)                               001           001
+(If "Yes," complete line 12a or lines 12b, 12c, 12d, and 12e below, as applicable.)
+a If a waiver of the minimum funding standard for a prior year is being amortized in this plan year, see instructions, and enter the date of the letter ruling
+granting the waiver. ................................................................................................................................. Month _______ Day _______ Year ________
+If you completed line 12a, complete lines 3, 9, and 10 of Schedule MB (Form 5500), and skip to line 13.
+b Enter the minimum required contribution for this plan year ................................................................................................ 12b 123456789012345
+
+c Enter the amount contributed by the employer to the plan for this plan year ...................................................................... 12c -123456789012345
+
+d Subtract the amount in line 12c from the amount in line 12b. Enter the result (enter a minus sign to the left of a
+
+12d
+
+negative amount) ...............................................................................................................................................................
+
+YYYY-MM-DD
+
+e Will the minimum funding amount reported on line 12d be met by the funding deadline?.................................................. X Yes X No X N/A
+
+Part VII Plan Terminations and Transfers of Assets 13a Has a resolution to terminate the plan been adopted in any plan year? ....................................................................................
+
+X Yes X No
+
+If "Yes," enter the amount of any plan assets that reverted to the employer this year ....................................................... 13a
+
+b Were all the plan assets distributed to participants or beneficiaries, transferred to another plan, or brought under the control
+of the PBGC?..................................................................................................................................................................................
+
+X Yes X No
+
+c If during this plan year, any assets or liabilities were transferred from this plan to another plan(s), identify the plan(s) to
+which assets or liabilities were transferred. (See instructions.)
+
+13c(1) Name of plan(s):
+
+13c(2) EIN(s)
+
+13c(3) PN(s)
+
+ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+123456789
+
+012
+
+Part VIII Trust Information 14a Name of trust ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+14c Name of trustee or custodian
+
+14b Trust's EIN
+14d Trustee's or custodian's
+telephone number
+
+Part IX IRS Compliance Questions
+
+15a Is the plan a 401(k) plan? .................................................................................................................................................... Yes
+
+X No
+
+15b If "Yes," how does the 401(k) plan satisfy the nondiscrimination requirements for employee deferrals and employer
+
+X
+
+matching contributions (as applicable) under sections 401(k)(3) and 401(m)(2)?...............................................................
+
+Designbased safe harbor method
+
+15c If the ADP/ACP test is used, did the 401(k) plan perform ADP/ACP testing for the plan year using the "current year
+testing method" for nonhighly compensated employees (Treas. Reg sections 1.401(k)-2(a)(2)(ii) and 1.401(m)-
+
+Yes
+
+2(a)(2)(ii))? ...........................................................................................................................................................................
+
+16a Check the box to indicate the method used by the plan to satisfy the coverage requirements under section 410(b): ........ X
+
+Ratio percentage
+
+test
+
+16b Does the plan satisfy the coverage and nondiscrimination tests of sections 410(b) and 401(a)(4) by combining
+
+X Yes
+
+this plan with any other plans under the permissive aggregation rules? .............................................................................
+
+X ADP/ACP
+test
+X No
+X Average
+benefit test
+X No
+
+17a Has the plan been timely amended for all required tax law changes?................................................................................. X Yes
+
+X No X N/A
+
+17b Date the last plan amendment/restatement for the required tax law changes was adopted____/____/____. Enter the applicable code ____ (See instructions
+
+for tax law changes and codes).
+
+17c If the plan sponsor is an adopter of a pre-approved master and prototype (M&P) or volume submitter plan that is subject to a favorable IRS opinion or
+
+advisory letter, enter the date of that favorable letter _______/_______/_______ and the letter's serial number ________________.
+
+17d If the plan is an individually-designed plan and received a favorable determination letter from the IRS, enter the date of the plan's last favorable
+
+determination letter ______/_______/_______.
+
+18
+
+Is the Plan maintained in a U.S. territory (i.e., Puerto Rico (if no election under ERISA section 1022(i)(2) has been made), American Samoa, Guam, the Commonwealth of the Northern Mariana Islands or the U.S. Virgin Islands)?.........
+
+X Yes
+
+X No
+
+19 Were in-service distributions made during the plan year? ................................................................................................... X Yes
+
+X No
+
+If "Yes," enter amount .......................................................................................................................................................... 19
+20 Were required minimum distributions made to 5% owners who have attained age 70 � (regardless of whether or not X Yes
+retired), as required under section 401(a)(9)? .....................................................................................................................
+
+X No X N/A
+
+SCHEDULE SB
+
+Single-Employer Defined Benefit Plan
+
+OMB No. 1210-0110
+
+(Form 5500)
+Department of the Treasury Internal Revenue Service
+Department of Labor Employee Benefits Security Administration
+Pension Benefit Guaranty Corporation
+
+Actuarial Information
+This schedule is required to be filed under section 104 of the Employee Retirement Income Security Act of 1974 (ERISA) and section 6059 of the
+Internal Revenue Code (the Code).
+ File as an attachment to Form 5500 or 5500-SF.
+
+2015
+This Form is Open to Public Inspection
+
+For calendar plan year 2015 or fiscal plan year beginning 02/02/2015
+
+and ending
+
+Round off amounts to nearest dollar.
+
+Caution: A penalty of $1,000 will be assessed for late filing of this report unless reasonable cause is established.
+
+01/31/2016
+
+A Name of plan APBACRDKESFLGOHPIE FAOBOCDDCEOFOGPH,IINCA.BPCEDNESFIOGNHPILAANBACNDDETFRGUHSIT ABCDEFGHI
 ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+B Three-digit
+plan number (PN)
+
+
+
+001 001
+
 ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
-C Plan sponsor’s name as shown on line 2a of Form 5500 or 5500-SF                                                                                   D      Employer Identification Number (EIN)
-ABCDEFGHI      ABCDEFGHI
- PARK SLOPE FOOD             ABCDEFGHI ABCDEFGHI ABCDEFGHI
-                    COOP, INC.                                                                                                                             012345678
-                                                                                                                                                                  11-2424740
-ABCDEFGHI ABCDEFGHI
-E    Type of plan: X Single                 X    Multiple-A         X    Multiple-B                             F    Prior year plan size: X 100 or fewer                  X     101-500    X   More than 500
 
- Part I   Basic Information
- 1 Enter the valuation date:                                        02
-                                                       Month _________                              02
-                                                                                        Day _________                          2015
-                                                                                                                     Year _________
- 2 Assets:
-    a Market value ........................................................................................................................................................ 2a           -123456789012345 5918608
-    b Actuarial value ..................................................................................................................................................... 2b           -123456789012345 5918608
- 3 Funding target/participant count breakdown                                                                                           (1) Number of                    (2) Vested Funding   (3) Total Funding
-                                                                                                                                              participants                            Target                    Target
-        a For retired participants and beneficiaries receiving payment ...................................                                                             4                        740657                    740657
-       b For terminated vested participants...........................................................................                                               14                         411328                    411328
-       c For active participants ..............................................................................................                                      74                     4159599                      4307243
-        d Total .........................................................................................................................                            92                     5311584                   5459228
- 4      If the plan is in at-risk status, check the box and complete lines (a) and (b) .............................. X
-        a Funding target disregarding prescribed at-risk assumptions .............................................................................. 4a                                            -123456789012345
-        b Funding target reflecting at-risk assumptions, but disregarding transition rule for plans that have been in                               4b
-            at-risk status for fewer than five consecutive years and disregarding loading factor .....................................                                                            -123456789012345
- 5      Effective interest rate ..............................................................................................................................................    5                        123.12
-                                                                                                                                                                                                              6.40 %
- 6      Target normal cost ..................................................................................................................................................     6               -123456789012345
-                                                                                                                                                                                                               373240
+C Plan sponsor's name as shown on line 2a of Form 5500 or 5500-SF APBACRDKESFLGOHPIE FAOBOCDDCEOFOGPH,IINCA.BCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI ABCDEFGHI
+
+D Employer Identification Number (EIN) 01234561718-2424740
+
+E Type of plan: X Single X Multiple-A X Multiple-B
+
+F Prior year plan size: X 100 or fewer X 101-500 X More than 500
+
+Part I Basic Information
+
+1 Enter the valuation date:
+
+Month __0_2______ Day ___0_2_____ Year _2_0_1_5_____
+
+2 Assets:
+
+a Market value ........................................................................................................................................................ 2a
+
+-1234567890152931846508
+
+b Actuarial value..................................................................................................................................................... 2b
+
+-1234567890152931486508
+
+3 Funding target/participant count breakdown a For retired participants and beneficiaries receiving payment...................................
+
+(1) Number of participants
+
+(2) Vested Funding
+Target
+4 740657
+
+(3) Total Funding Target
+740657
+
+b For terminated vested participants........................................................................... c For active participants ..............................................................................................
+
+14 411328 411328 74 4159599 4307243
+
+d Total .........................................................................................................................
+
+92 5311584 5459228
+
+4 If the plan is in at-risk status, check the box and complete lines (a) and (b) ..............................X
+
+a Funding target disregarding prescribed at-risk assumptions .............................................................................. 4a
+
+b Funding target reflecting at-risk assumptions, but disregarding transition rule for plans that have been in
+
+4b
+
+at-risk status for fewer than five consecutive years and disregarding loading factor .....................................
+
+5 Effective interest rate .............................................................................................................................................. 5
+
+6 Target normal cost.................................................................................................................................................. 6
+
+-123456789012345
+-123456789012345 123.61.420 %
+-123456789012337342540
+
 Statement by Enrolled Actuary
-     To the best of my knowledge, the information supplied in this schedule and accompanying schedules, statements and attachments, if any, is complete and accurate. Each prescribed assumption was applied in
-     accordance with applicable law and regulations. In my opinion, each other assumption is reasonable (taking into account the experience of the plan and reasonable expectations) and such other assumptions, in
-     combination, offer my best estimate of anticipated experience under the plan.
 
+To the best of my knowledge, the information supplied in this schedule and accompanying schedules, statements and attachments, if any, is complete and accurate. Each prescribed assumption was applied in accordance with applicable law and regulations. In my opinion, each other assumption is reasonable (taking into account the experience of the plan and reasonable expectations) and such other assumptions, in combination, offer my best estimate of anticipated experience under the plan.
 
-    SIGN
-    HERE                                                                                                                                                                                        04/07/2016
-                                                          Signature of actuary                                                                                                                  Date
-ABCDEFGHI    ABCDEFGHI
- JOHN GARIGLIANO, ASA, EA ABCDEFGHI ABCDE                                                                                                                                                       14-03634     YYYY-MM-DD
-                                                   Type or print name of actuary                                                                                                 Most recent enrollment number
-ABCDEFGHI    ABCDEFGHI
- PENSION REVIEW SERVICES ABCDEFGHI ABCDE                                                                                                                                                        631-465-0850       1234567
-                                                                 Firm name                                                                                             Telephone number (including area code)
- 445 BROAD HOLLOW
- 123456789          ROAD - SUITE
-               ABCDEFGHI         8
-                            ABCDEFGHI
-                               ABCDE
- MELVILLE, NY 11747                                                                                                                                                                                          1234567890
- 123456789 ABCDEFGHI ABCDEFGHI ABCDE
- UK
-                                                            Address of the firm
+SIGN HERE
 
-If the actuary has not fully reflected any regulation or ruling promulgated under the statute in completing this schedule, check the box and see           X
+04/07/2016
+
+Signature of actuary
+AJBOCHDNEGFAGRHIGILIANBOC,DAESFAG, HEIA ABCDEFGHI ABCDE
+Type or print name of actuary
+APBECNDSEIOFNGHRIEVIAEBWCSDEERFVGICHEIS ABCDEFGHI ABCDE
+Firm name
+414253B4R5O6A7D8H9OLALOBCWDREOFAGDH-ISUAITBEC8DEFGHI ABCDE M1E2L3V4IL5L6E7, N8Y911A7B4C7 DEFGHI ABCDEFGHI ABCDE UK
+Address of the firm
+
+Date
+14-03634 YYYY-MM-DD
+Most recent enrollment number
+631-465-0850 1234567
+Telephone number (including area code)
+1234567890
+
+If the actuary has not fully reflected any regulation or ruling promulgated under the statute in completing this schedule, check the box and see
+
+X
+
 instructions
-For Paperwork Reduction Act Notice and OMB Control Numbers, see the instructions for Form 5500 or 5500-SF.                            Schedule SB (Form 5500) 2015
-                                                                                                                                                         v. 150123
-               Schedule SB (Form 5500) 2015                                                                                     Page 2      - 11 x
 
- Part II            Beginning of Year Carryover and Prefunding Balances
-                                                                                                                                               (a) Carryover balance                         (b) Prefunding balance
- 7     Balance at beginning of prior year after applicable adjustments (line 13 from prior                                                     -123456789012345                                -123456789012345
-       year) ............................................................................................................................                                        0                                       39350
+For Paperwork Reduction Act Notice and OMB Control Numbers, see the instructions for Form 5500 or 5500-SF.
 
- 8     Portion elected for use to offset prior year’s funding requirement (line 35 from
-       prior year) ...................................................................................................................         -1234567890123450                               -1234567890123450
-9      Amount remaining (line 7 minus line 8) .......................................................................                          -1234567890123450                               -123456789012345
-                                                                                                                                                                                                            39350
-10     Interest on line 9 using prior year’s actual return of                                -18.16 % ..............................           -1234567890123450                               -123456789012345
-                                                                                                                                                                                                            -7146
-11     Prior year’s excess contributions to be added to prefunding balance:
-       a Present value of excess contributions (line 38a from prior year) .............................                                                                                        -1234567890123450
-       b(1) Interest on the excess, if any, of line 38a over line 38b from prior year
-               Schedule SB, using prior year's effective interest rate of ___                                    % .....................
-                                                                                                                                                                                               -1234567890123450
-       b(2) Interest on line 38b from prior year Schedule SB, using prior year's actual
-             return .................................................................................................................                                                                                            0
-       c Total available at beginning of current plan year to add to prefunding balance..............                                                                                                                            0
-       d Portion of (c) to be added to prefunding balance ....................................................                                                                                 -1234567890123450
-                                                                                                                                                                                                123456789012345
-12     Other reductions in balances due to elections or deemed elections ...........................                                           -1234567890123450                               -1234567890123450
-13     Balance at beginning of current year (line 9 + line 10 + line 11d – line 12) .................                                          -1234567890123450                               -123456789012345
-                                                                                                                                                                                                           32204
+Schedule SB (Form 5500) 2015
 
- Part III      Funding Percentages
-14 Funding target attainment percentage ................................................................................................................................................................. 14         123.12
-                                                                                                                                                                                                                      107.82 %
-15 Adjusted funding target attainment percentage                ............................................................................................................................... 15                   123.12
-                                                                                                                                                                                                                      108.41 %
-16 Prior year’s funding percentage for purposes of determining whether carryover/prefunding balances may be used to reduce                                                                                16
-   current year’s funding requirement .........................................................................................................................................................                       155.07 %
-                                                                                                                                                                                                                     123.12
-17     If the current value of the assets of the plan is less than 70 percent of the funding target, enter such percentage. ..............................                                             17            123.12%
- Part IV      Contributions and Liquidity Shortfalls
+v. 150123
+
+Schedule SB (Form 5500) 2015
+
+Page 2 - 11 x
+
+Part II Beginning of Year Carryover and Prefunding Balances
+7 Balance at beginning of prior year after applicable adjustments (line 13 from prior
+year) ............................................................................................................................
+
+(a) Carryover balance
+-123456789012345
+0
+
+(b) Prefunding balance
+-123456789012345
+39350
+
+8 Portion elected for use to offset prior year's funding requirement (line 35 from
+prior year) ...................................................................................................................
+9 Amount remaining (line 7 minus line 8) ....................................................................... 10 Interest on line 9 using prior year's actual return of -18.16% .............................. 11 Prior year's excess contributions to be added to prefunding balance:
+a Present value of excess contributions (line 38a from prior year) ............................. b(1) Interest on the excess, if any, of line 38a over line 38b from prior year
+Schedule SB, using prior year's effective interest rate of ___ %.....................
+b(2) Interest on line 38b from prior year Schedule SB, using prior year's actual
+return .................................................................................................................
+c Total available at beginning of current plan year to add to prefunding balance..............
+d Portion of (c) to be added to prefunding balance ....................................................
+12 Other reductions in balances due to elections or deemed elections ........................... 13 Balance at beginning of current year (line 9 + line 10 + line 11d � line 12).................
+
+-1234567890123450 -1234567890123450 -1234567890123450
+-1234567890123450 -1234567890123450
+
+-1234567890123450 -12345678901233943550 -123456789012-3741456
+-1234567890123450
+-1234567890123450
+0 0
+-1234567890123450 123456789012345
+-1234567890123450 -12345678901233224054
+
+Part III Funding Percentages
+14 Funding target attainment percentage.................................................................................................................................................................
+15 Adjusted funding target attainment percentage ............................................................................................................................... 16 Prior year's funding percentage for purposes of determining whether carryover/prefunding balances may be used to reduce
+current year's funding requirement.........................................................................................................................................................
+17 If the current value of the assets of the plan is less than 70 percent of the funding target, enter such percentage...............................
+
+14 15
+16 17
+
+121307..8122% 121308..4112%
+121355..0172% 123.12%
+
+Part IV Contributions and Liquidity Shortfalls
+
 18 Contributions made to the plan for the plan year by employer(s) and employees:
-     (a) Date                         (b) Amount paid by                          (c) Amount paid by                           (a) Date               (b) Amount paid by                           (c) Amount paid by
-  (MM-DD-YYYY)                            employer(s)                                 employees                             (MM-DD-YYYY)                  employer(s)                                  employees
- YYYY-MM-DD
- 01/27/2016                        12345678901234
-                                             1400000                          123456789012340                              YYYY-MM-DD                12345678901234                           123456789012345-
- YYYY-MM-DD                        12345678901234                             12345678901234                               YYYY-MM-DD                12345678901234                           123456789012345-
- YYYY-MM-DD                        12345678901234                             12345678901234                               YYYY-MM-DD                12345678901234                           123456789012345-
- YYYY-MM-DD                        12345678901234                             12345678901234                               YYYY-MM-DD                12345678901234                           123456789012345-
- YYYY-MM-DD                        12345678901234                             12345678901234                               YYYY-MM-DD                12345678901234                           123456789012345-
- YYYY-MM-DD                        12345678901234                             12345678901234
-                                                                                                                         Totals ►            18(b)                        1400000          18(c)
 
-19     Discounted employer contributions – see instructions for small plan with a valuation date after the beginning of the year:
-       a Contributions allocated toward unpaid minimum required contributions from prior years. ..................................... 19a                                                     -123456789012345 0
-       b Contributions made to avoid restrictions adjusted to valuation date ....................................................................... 19b                                      -123456789012345 0
-       c Contributions allocated toward minimum required contribution for current year adjusted to valuation date ..................... 19c                                                   -123456789012345
-                                                                                                                                                                                                          1317132
-20     Quarterly contributions and liquidity shortfalls:
-       a   Did the plan have a “funding shortfall” for the prior year? ............................................................................................................................. X Yes X No
-       b   If line 20a is “Yes,” were required quarterly installments for the current year made in a timely manner? ..................................................... X Yes                                         X   No
-       c   If line 20a is “Yes,” see instructions and complete the following table as applicable:
-                                                                                 Liquidity shortfall as of end of quarter of this plan year
-                      (1) 1st                                                      (2) 2nd                                      (3) 3rd                                                              (4)       4th
-              -123456789012345                                                -123456789012345                                              -123456789012345                                   -123456789012345
-              Schedule SB (Form 5500) 2015                                                                                                      Page 3
+(a) Date (MM-DD-YYYY)
 
+(b) Amount paid by employer(s)
+
+(c) Amount paid by employees
+
+(a) Date (MM-DD-YYYY)
+
+(b) Amount paid by employer(s)
+
+(c) Amount paid by employees
+
+Y0Y1/Y2Y7/-20M1M6-DD YYYY-MM-DD
+
+123456789011420300400 123456789012340 YYYY-MM-DD 12345678901234 12345678901234 YYYY-MM-DD
+
+12345678901234 12345678901234
+
+123456789012345123456789012345-
+
+YYYY-MM-DD 12345678901234 12345678901234 YYYY-MM-DD 12345678901234 123456789012345-
+
+YYYY-MM-DD 12345678901234 12345678901234 YYYY-MM-DD 12345678901234 123456789012345-
+
+YYYY-MM-DD 12345678901234 12345678901234 YYYY-MM-DD 12345678901234 123456789012345-
+
+YYYY-MM-DD 12345678901234 12345678901234
+
+Totals  18(b)
+
+1400000 18(c)
+
+19 Discounted employer contributions � see instructions for small plan with a valuation date after the beginning of the year:
+
+a Contributions allocated toward unpaid minimum required contributions from prior years. ..................................... 19a b Contributions made to avoid restrictions adjusted to valuation date....................................................................... 19b
+
+-1234567890123450 -1234567890123450
+
+c Contributions allocated toward minimum required contribution for current year adjusted to valuation date..................... 19c
+
+-1234567890112331741532
+
+20 Quarterly contributions and liquidity shortfalls:
+
+a Did the plan have a "funding shortfall" for the prior year? ............................................................................................................................. X Yes X No
+
+b If line 20a is "Yes," were required quarterly installments for the current year made in a timely manner?..................................................... X Yes X No
+
+c If line 20a is "Yes," see instructions and complete the following table as applicable:
+
+Liquidity shortfall as of end of quarter of this plan year
+
+(1) 1st
+
+(2) 2nd
+
+(3) 3rd
+
+(4) 4th
+
+-123456789012345
+
+-123456789012345
+
+-123456789012345
+
+-123456789012345
+
+Schedule SB (Form 5500) 2015
+
+Page 3
 
 Part V Assumptions Used to Determine Funding Target and Target Normal Cost
+
 21 Discount rate:
-   a Segment rates:   1st segment:          2nd segment:            3rd segment:
-                                                                                                                                                                                                      X N/A, full yield curve used
-                      123.12_
-                            4.72 %          123.12_
-                                                  6.11 %            123.126.81 %
-      b Applicable month (enter code) ...........................................................................................................................                       21b                                       10
-22    Weighted average retirement age .........................................................................................................................                          22                                      12
-                                                                                                                                                                                                                                  65
-23    Mortality table(s) (see instructions)                               X      Prescribed - combined                            X    Prescribed - separate                       X    Substitute
+
+a Segment rates:
+
+1st segment:
+123.14.27_2 %
+
+2nd segment:
+123.16.21_1 %
+
+3rd segment:
+123.16.281 %
+
+X N/A, full yield curve used
+
+b Applicable month (enter code)........................................................................................................................... 21b
+
+10
+
+22 Weighted average retirement age ......................................................................................................................... 22
+
+23 Mortality table(s) (see instructions)
+
+X Prescribed - combined
+
+X Prescribed - separate
+
+X Substitute
+
+1625
 
 Part VI Miscellaneous Items
-24 Has a change been made in the non-prescribed actuarial assumptions for the current plan year?                                                          If “Yes,” see instructions regarding required
-      attachment. ........................................................................................................................................................................................................ X Yes X No
-25    Has a method change been made for the current plan year? If “Yes,” see instructions regarding required attachment. ................................ X Yes X No
-26    Is the plan required to provide a Schedule of Active Participants? If “Yes,” see instructions regarding required attachment.......................... X Yes                                                            X   No
-27    If the plan is subject to alternative funding rules, enter applicable code and see instructions regarding
-                                                                                                                                                                                         27
-      attachment .............................................................................................................................................................
+
+24 Has a change been made in the non-prescribed actuarial assumptions for the current plan year? If "Yes," see instructions regarding required attachment. ........................................................................................................................................................................................................ X Yes X No
+
+25 Has a method change been made for the current plan year? If "Yes," see instructions regarding required attachment. ................................ X Yes X No
+
+26 Is the plan required to provide a Schedule of Active Participants? If "Yes," see instructions regarding required attachment.......................... X Yes X No
+
+27 If the plan is subject to alternative funding rules, enter applicable code and see instructions regarding
+
+27
+
+attachment .............................................................................................................................................................
 
 Part VII Reconciliation of Unpaid Minimum Required Contributions For Prior Years
-28 Unpaid minimum required contributions for all prior years ....................................................................................                                        28              -1234567890123450
-29 Discounted employer contributions allocated toward unpaid minimum required contributions from prior years                                                                             29
-      (line 19a) ................................................................................................................................................................                        -1234567890123450
-30    Remaining amount of unpaid minimum required contributions (line 28 minus line 29) .........................................                                                        30              -1234567890123450
+
+28 Unpaid minimum required contributions for all prior years .................................................................................... 29 Discounted employer contributions allocated toward unpaid minimum required contributions from prior years
+(line 19a)................................................................................................................................................................
+30 Remaining amount of unpaid minimum required contributions (line 28 minus line 29) .........................................
+
+28 29 30
+
+-1234567890123450
+-1234567890123450 -1234567890123450
+
 Part VIII Minimum Required Contribution For Current Year
+
 31 Target normal cost and excess assets (see instructions):
-   a Target normal cost (line 6) .................................................................................................................................. 31a                                  -123456789012345
-                                                                                                                                                                                                                     373240
-   b Excess assets, if applicable, but not greater than line 31a ............................................................................... 31b                                                                          373240
-32 Amortization installments:                                                                                                           Outstanding Balance                                                   Installment
-   a Net shortfall amortization installment ..........................................................................                -1234567890123450                                                  -1234567890123450
-   b Waiver amortization installment ..................................................................................               -1234567890123450                                                  -1234567890123450
-33    If a waiver has been approved for this plan year, enter the date of the ruling letter granting the approval
-      (Month _________ Day _________ Year _________ )_and the waived amount ..........................................
-                                                                                                                                                                                         33
-                                                                                                                                                                                                         -123456789012345
-34    Total funding requirement before reflecting carryover/prefunding balances (lines 31a - 31b + 32a + 32b - 33) ...                                                                   34              -1234567890123450
-                                                                                                   Carryover balance                                     Prefunding balance                                  Total balance
 
-35    Balances elected for use to offset funding
-      requirement ............................................................                 -123456789012345                                        -123456789012345                                  -123456789012345
-36    Additional cash requirement (line 34 minus line 35) ..............................................................................................            36                                   -1234567890123450
-37    Contributions allocated toward minimum required contribution for current year adjusted to valuation date
-                                                                                                                                                                                         37              -123456789012345
-      (line 19c) ................................................................................................................................................................                                   1317132
+a Target normal cost (line 6) .................................................................................................................................. 31a b Excess assets, if applicable, but not greater than line 31a ............................................................................... 31b
 
-38    Present value of excess contributions for current year (see instructions)
-      a Total (excess, if any, of line 37 over line 36) .....................................................................................................                           38a                                  1317132
-      b Portion included in line 38a attributable to use of prefunding and funding standard carryover balances .........                                                                38b                                             0
-39 Unpaid minimum required contribution for current year (excess, if any, of line 36 over line 37) ...........................                                                           39              -1234567890123450
-40 Unpaid minimum required contributions for all years.............................................................................................                                      40              -123456789012345
-Part IX    Pension Funding Relief Under Pension Relief Act of 2010 (See Instructions)
-41    If an election was made to use PRA 2010 funding relief for this plan:
-      a Schedule elected             ............................................................................................................................................................   2 plus 7 years   X 15 years
-      b Eligible plan year(s) for which the election in line 41a was made                                     ...........................................................................   X 2008 X 2009 X 2010 X           2011
-42    Amount of acceleration adjustment .......................................................................................................................                          42
-43    Excess installment acceleration amount to be carried over to future plan years ...................................................                                                 43
+-123456789013273342450
+373240
+
+32 Amortization installments:
+
+Outstanding Balance
+
+Installment
+
+a Net shortfall amortization installment ..........................................................................
+
+-1234567890123450
+
+-1234567890123450
+
+b Waiver amortization installment ..................................................................................
+
+-1234567890123450
+
+-1234567890123450
+
+33 If a waiver has been approved for this plan year, enter the date of the ruling letter granting the approval (Month _________ Day _________ Year _________ )_and the waived amount ..........................................
+
+33
+
+-123456789012345
+
+34 Total funding requirement before reflecting carryover/prefunding balances (lines 31a - 31b + 32a + 32b - 33) ... 34
+
+-1234567890123450
+
+Carryover balance
+
+Prefunding balance
+
+Total balance
+
+35 Balances elected for use to offset funding
+requirement............................................................
+
+-123456789012345
+
+-123456789012345
+
+36 Additional cash requirement (line 34 minus line 35) .............................................................................................. 36
+
+37 Contributions allocated toward minimum required contribution for current year adjusted to valuation date
+
+37
+
+(line 19c) ................................................................................................................................................................
+
+38 Present value of excess contributions for current year (see instructions)
+
+a Total (excess, if any, of line 37 over line 36) ..................................................................................................... 38a
+
+b Portion included in line 38a attributable to use of prefunding and funding standard carryover balances ......... 38b
+
+39 Unpaid minimum required contribution for current year (excess, if any, of line 36 over line 37) ........................... 39
+
+40 Unpaid minimum required contributions for all years............................................................................................. 40
+
+Part IX Pension Funding Relief Under Pension Relief Act of 2010 (See Instructions)
+
+-123456789012345 -1234567890123450 -1234567890113213741352
+1317132 0
+-1234567890123450 -123456789012345
+
+41 If an election was made to use PRA 2010 funding relief for this plan: a Schedule elected ............................................................................................................................................................ 2 plus 7 years X 15 years b Eligible plan year(s) for which the election in line 41a was made ........................................................................... X 2008 X 2009 X 2010 X 2011
+42 Amount of acceleration adjustment ....................................................................................................................... 42 43 Excess installment acceleration amount to be carried over to future plan years ................................................... 43
+
 
